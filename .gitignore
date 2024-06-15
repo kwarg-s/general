@@ -1,6 +1,7 @@
 fullstack-gpt/env/
 fullstack-gpt/.env
-
+fullstack-gpt/files/
+fullstack-gpt/.cache/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
